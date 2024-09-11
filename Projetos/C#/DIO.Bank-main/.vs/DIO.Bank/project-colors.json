@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ba0de4ae-92ce-4d33-bc4c-3cfcdcb6120b": {
+      "ProjectGuid": "ba0de4ae-92ce-4d33-bc4c-3cfcdcb6120b",
+      "DisplayName": "DIO.Bank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
